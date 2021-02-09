@@ -1,6 +1,6 @@
-# **Dear reader, welcome to my *README* file!** :star2:
+## **<h1 align="center"> Dear reader,<br/>welcome to my *README* file!** :star2:
 
-## **Index**
+## **Index** 
 
 :small_blue_diamond: [About Me](#about-me-information_desk_person)     
 :small_blue_diamond: [Goals](#goals-2021-white_check_mark)   
@@ -48,8 +48,8 @@ Jane Eyre (2011), Split, Parasite
 
 ## **Connect With Me Here**
 
-:heart_decoration:  Facebook: Lim Wei Ching (https://www.facebook.com/lim.weiching.5)
-:heart_decoration:  Instagram: weichingg_
+:heart_decoration:  Facebook: [Lim Wei Ching](https://www.facebook.com/lim.weiching.5)  
+:heart_decoration:  Instagram: [weichingg_](https://www.instagram.com/weichingg_/)
 
 ### *Thank you for reading~* :sparkles::wave::smiley:
 
