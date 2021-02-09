@@ -53,4 +53,4 @@ Jane Eyre (2011), Split, Parasite
 
 ### *Thank you for reading~* :sparkles::wave::smiley:
 
-[:arrow_up:*back to top*:arrow_up:](#dear-reader-welcome-to-my-readme-file-star2)
+[:arrow_up:*back to top*:arrow_up:]((#dear-reader-welcome-to-my-readme-file-star2){:target="_blank"})
