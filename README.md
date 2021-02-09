@@ -1,5 +1,5 @@
 # Hello_World
-Practice Repository
+
 Hello everyone!
 
 I am a newbie in the coding world. I am interested to learn as much about coding as I can here on GitHub.
