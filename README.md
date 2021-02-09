@@ -48,7 +48,7 @@ Jane Eyre (2011), Split, Parasite
 
 ## **Connect With Me Here**
 
-:heart_decoration:  Facebook: [Lim Wei Ching](https://www.facebook.com/lim.weiching.5){:target="_blank" rel="noopener"})
+:heart_decoration:  Facebook: Lim Wei Ching (https://www.facebook.com/lim.weiching.5)
 :heart_decoration:  Instagram: weichingg_
 
 ### *Thank you for reading~* :sparkles::wave::smiley:
