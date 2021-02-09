@@ -1,4 +1,4 @@
-## **<h1 align="center"> Dear reader,<br/>:blossom:welcome to my *README* file!** :blossom:
+## **<h1 align="center"> Dear reader,<br/> welcome to my *README* file!**
 
 ## **Index** 
 
@@ -48,9 +48,9 @@ Jane Eyre (2011), Split, Parasite
 
 ## **Connect With Me Here**
 
-:heart_decoration:  Facebook: [Lim Wei Ching](https://www.facebook.com/lim.weiching.5)  
-:heart_decoration:  Instagram: [weichingg_](https://www.instagram.com/weichingg_/)
+:heart_decoration: Instagram: [weichingg_](https://www.instagram.com/weichingg_/)  
+:heart_decoration: Facebook: [Lim Wei Ching](https://www.facebook.com/lim.weiching.5/)
 
 ### *Thank you for reading~* :sparkles::wave::smiley:
 
-[:arrow_up:*back to top*:arrow_up:](#dear-reader-blossom-welcome-to-my-readme-file-blossom) 
+[:arrow_up:*back to top*:arrow_up:](#dear-reader-welcome-to-my-readme-file)
