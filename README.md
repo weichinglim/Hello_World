@@ -1,4 +1,4 @@
-## **<h1 align="center"> Dear reader,<br/>welcome to my *README* file!** :star2:
+## **<h1 align="center"> Dear reader,<br/>:blossom:welcome to my *README* file!** :blossom:
 
 ## **Index** 
 
