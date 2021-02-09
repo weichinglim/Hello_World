@@ -1,4 +1,4 @@
-## **<h1 align="center"> Dear reader,<br/> :blossom: welcome to my *README* file!** :blossom:
+## **<h1 align="center"> Dear reader,<br/> :blossom: welcome to my *README* file** :blossom:
 
 ## **Index** 
 
@@ -53,4 +53,4 @@ Jane Eyre (2011), Split, Parasite
 
 ### *Thank you for reading~* :sparkles::wave::smiley:
 
-[:arrow_up:*back to top*:arrow_up:](#h1)
+[:arrow_up:*back to top*:arrow_up:](#-dear-reader-blossom-welcome-to-my-readme-file-blossom-1)
