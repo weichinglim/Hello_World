@@ -43,9 +43,9 @@ Jane Eyre (2011), Split, Parasite
 
 #### :tv: TV Series    
 1. Mr. Sunshine - *Set in the late 18th and early 19th century, freedom fighters unite with what little they to fight for independence.*  
-2. Search: WWW - *About making decisions and reaching organizational goals but with interesting twists along the way.*    
-3. Misaeng - A look into the life and hardships of interns, contract workers and salarymen.  
-4. Cheese In The Trap - Rather realistic portrayal of a typical college student who is trying to balance school, work and relationships.   
+2. Search: WWW - *A series about making decisions and reaching organizational goals but with interesting twists along the way.*    
+3. Misaeng - *A look into the life and hardships of interns, contract workers and the everyday salarymen.*  
+4. Cheese In The Trap - *Rather realistic portrayal of a typical college student who is trying to balance school, work and relationships.*   
 
 ## **Connect With Me Here**
 
