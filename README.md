@@ -15,7 +15,7 @@ I am a newbie in the coding world. I want to learn as much about coding as I can
 My goal is to create my own repository by the end of my spring semester 2021.
 In addition to that, I aim to polish my skills to be able to contribute to other repositories.  
 
-Some of my hobbies are [*baking*](https://imgur.com/a/hk7efyK) and discovering new music.
+Some of my hobbies are [*baking*](https://imgur.com/a/hk7efyK) and *discovering new music*.
 
 ## **Goals 2021** :white_check_mark:
 
