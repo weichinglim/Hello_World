@@ -13,14 +13,15 @@ My name is Wei Ching. I am currently a junior at The University of Iowa majoring
 
 I am a newbie in the coding world. I want to learn as much about coding as I can here on GitHub.
 My goal is to create my own repository by the end of my spring semester 2021.
-In addition to that, I aim to polish my skills to be able to contribute to other repositories.
-Some of my hobbies are [baking](https://imgur.com/a/hk7efyK) and discovering new music.
+In addition to that, I aim to polish my skills to be able to contribute to other repositories.  
+
+Some of my hobbies are [*baking*](https://imgur.com/a/hk7efyK) and *discovering new music*.
 
 ## **Goals 2021** :white_check_mark:
 
 #### Short Term Goals :zap:
 - [ ] Create at least one repository on GitHub
-- [ ] Practice coding and familiarize myself will all the terms and functions on Python
+- [ ] Practice coding and familiarize myself with all the terms and functions on Python
 - [ ] Go for a walk at least twice a week if the weather permits
 
 #### Long Term Goals :zap::zap:
